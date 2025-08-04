@@ -1,0 +1,14 @@
+# Java
+/target
+*.iml
+
+# Node
+node_modules/
+dist/
+
+# IDEs
+*.idea
+.vscode
+
+# Environment
+.env
